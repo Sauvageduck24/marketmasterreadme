@@ -1,7 +1,7 @@
 # [🚀 Market Master Algorithmic Trading System](https://github.com/Sauvageduck24/Market-Master-Algorithmic-Trading-System)
 
 <div align="center">
-  <img src="DOCUMENTOS/logos/market%20master%20logo.jpg" alt="Market Master Logo" width="300"/>
+  <img src="market%20master%20logo.jpg" alt="Market Master Logo" width="300"/>
   
   <br/>
   
