@@ -1,11 +1,30 @@
-# Market Master: Algorithmic Trading Framework
+# [🚀 Market Master Algorithmic Trading System](https://github.com/Sauvageduck24/Market-Master-Algorithmic-Trading-System)
 
-\<div align="center"\>
-\<img src="market%20master%20logo.jpg" alt="Market Master Logo" width="250"/\>
 
-<br>
 
-\</div\>
+<div align="center">
+
+  <img src="market%20master%20logo.jpg" alt="Market Master Logo" width="300"/>
+
+  
+
+  <br/>
+
+  
+
+  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+
+  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+  ![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
+
+  ![Architecture](https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge)
+
+  ![ML](https://img.shields.io/badge/ML-CatBoost%20%7C%20Optuna-purple?style=for-the-badge)
+
+  ![Trading](https://img.shields.io/badge/Trading-MT5%20%7C%20Real%20Time-red?style=for-the-badge)
+
+</div>
 
 ## 🎯 Project Overview
 
